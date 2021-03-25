@@ -12,6 +12,9 @@ requests = "*"
 tweepy = "*"
 pandas = "*"
 python-dotenv = "*"
+jupyter = "*"
+spacy = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"
